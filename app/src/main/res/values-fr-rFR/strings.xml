@@ -3,4 +3,5 @@
     <string name="app_name">Mon Application</string>
     <string name="button_text">Cliquez</string>
     <string name="hello_world">Bonjour le monde!</string>
+    <string name="quit">Quittez</string>
 </resources>
